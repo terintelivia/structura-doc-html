@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+       <head>
+             <title> poezie </title>
+       <head>
+       <body style="background-color:#CCCCCC;">
+       <DIV style="color:#993333;">
+       <h2>Moartea caprioarei </h2>
+                   <h3> de Nicolae Labis </h3>
+       <h3>
+       <DIV style="color:#996699;">
+       Seceta a ucis orice boare de vânt. <br>
+       Soarele s-a topit şi a curs pe pământ. <br>
+       A rămas cerul fierbinte şi gol. <br>
+       Ciuturile scot din fântână nămol. <br>
+       Peste păduri tot mai des focuri, focuri <br>
+       Dansează sălbatice, satanice jocuri. <br>
+       <br>
+       <DIV style="color:#800080;">
+       Mă iau după tata la deal printre târşuri, <br>
+       Şi brazii mă zgârie, răi şi uscaţi. <br>
+       Pornim amândoi vânătoarea de capre, <br>
+       Vânătoarea foametei în munţii Carpaţi. <br>
+       Setea mă năruie. Fierbe pe piatră <br>
+       Firul de apă prelins din cişmea. <br>
+       Tâmpla apasă pe umăr. Păşesc ca pe-o altă <br>
+       Planetă, imensă, străină şi grea. <br>
+       <h3>
+       </body>
+</html>
